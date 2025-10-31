@@ -1,0 +1,10 @@
+server:
+  port: ${PORT:8080}
+spring:
+  application:
+    name: spring-ai-mcp-poc
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "health,info"
