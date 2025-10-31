@@ -10,3 +10,4 @@ Check:
 - http://localhost:8080/actuator/health
 - http://localhost:8080/info
 # spring-ai-mcp-poc
+# spring-ai-mcp-poc
